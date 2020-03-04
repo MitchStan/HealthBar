@@ -5,6 +5,11 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
 
+}
+
+	/*
+{
+
 	public int maxHealth = 100;
 	public int currentHealth;
 
@@ -33,3 +38,4 @@ public class Player : MonoBehaviour
 		healthBar.SetHealth(currentHealth);
 	}
 }
+*/
